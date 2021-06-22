@@ -55,7 +55,7 @@ You can add your group/name by [[https://github.com/monperrus/bibtexbrowser/edit
 * [[http://ccm.uma.pt/index.php?lab=pura&m=publications|Centro de Ciências Matemáticas, Portugal]]
 
 
-==== Indiviudals ====
+==== Individuals ====
 * [[http://cgi.csc.liv.ac.uk/~ash/Publications/|Ayesh Alshukri, University of Liverpool, UK]] 
 * [[http://www.physics.purdue.edu/~richa152/publications.php|Joseph L. Richards, Department of Physics, Purdue University, USA]]
 * [[http://people.cas.uab.edu/~weikard/papers/mybibtexbrowser.php?bib=all.bib&author=Rudi+Weikard|Rudi Weikard, Department of Mathematics, University of Alabama at Birmingham, USA]]
@@ -106,6 +106,7 @@ You can add your group/name by [[https://github.com/monperrus/bibtexbrowser/edit
 * [[http://www.cs.usask.ca/home/eramian/bib/Refereed_Journal_Articles.php|Mark Eramian, University of Saskatchewan, Canada]]
 * [[http://grapple.dcs.warwick.ac.uk/bibtexbrowser/maurice.php|Maurice Hendrix, University of Warwick, UK]]
 * [[http://telecom.inescporto.pt/~jsc/bibtexbrowser.php|Jaime dos Santos Cardoso, INESC, Portugal]]
+* [[http://dhoto.lecturer.pens.ac.id|Sritrusta Sukaridhoto, Politeknik Elektronika Negeri Surabaya, Indonesia]]
 
 ==== Misc ====
 * [[http://kovarik.felk.cvut.cz/ant-algorithms/bibtexbrowser-original.php|Ant algorithms bibliography, Czech Technical University, Czech Republic]]
